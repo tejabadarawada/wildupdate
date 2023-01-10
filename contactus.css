@@ -1,0 +1,47 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+body{
+    background-image: url(https://cdn.pixabay.com/photo/2017/08/25/15/16/dove-2680487_1280.jpg);
+}
+h2{
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-family: Nirmala UI;
+}
+footer{
+        text-align: center;
+        color: rgb(241, 235, 235);
+        background: #101010;
+        padding: 10px;
+        font-family: Nirmala UI;
+}
+.contact{
+    margin: 0px 0px 0px 300px;
+    padding: 30px;
+}
+label{
+     color: rgb(0, 0, 0);
+     font-family: Nirmala UI;
+     font-size: 18px;
+}
+#name{
+    width: 400px;
+    border: none;
+    border-radius: 3px;
+    padding: 7px;
+    outline: 0;
+}
+#submit{
+    width: 200px;
+    border: none;
+    border-radius: 3px;
+    padding: 5px;
+    outline: 0;
+    font-size: 16px;
+}
+
